@@ -1,4 +1,4 @@
-Titanium TVOut Module [![Build Status](https://travis-ci.org/appcelerator-modules/ti.tvout.png)](https://travis-ci.org/appcelerator-modules/ti.tvout)
+# Titanium TVOut Module [![Build Status](https://travis-ci.org/appcelerator-modules/ti.tvout.png)](https://travis-ci.org/appcelerator-modules/ti.tvout)
 
 This is the TVOut Module for Titanium.
 
