@@ -72,7 +72,7 @@
 
 -(void)setView:(id)args
 {
-	TiViewProxy* view;
+	TiViewProxy* view = nil;
 	NSNumber* value = nil;
 
 	if ([args isKindOfClass:[NSArray class]]) {
